@@ -85,8 +85,8 @@ function getCurrentWeekNumber(date) {
 export {
   ifDateHasPass,
   ifItsSameDay,
+  ifItsSameHour,
   renderDayNames,
   renderDaysInMonth,
-  getCurrentWeekNumber,
-  ifItsSameHour
+  getCurrentWeekNumber
 };
